@@ -82,7 +82,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Dennis-Dayum&show_icons=true&theme=radical&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dennis-Dayum&layout=compact&theme=radical" height="170"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rafiadnan0666&theme=catppuccin_mocha" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dennis-Dayum&theme=catppuccin_mocha" height="170"/>
 </div>
 
 ---
