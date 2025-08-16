@@ -89,7 +89,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,tailwind,js,cs,unity,mysql,git,github,vscode,figma"/>
+  <img src="https://skillicons.dev/icons?i=html,unity,mysql,git,github,vscode"/>
 </p>
 
 
