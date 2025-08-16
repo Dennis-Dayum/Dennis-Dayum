@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
-  Hey there, I'm <span style="color:#33A1DE;">Dennis Abimanyu</span>!
+  Yo sup dawg, I'm <span style="color:#33A1DE;">Dennis Abimanyu</span>!
 </h1>
 
 <!-- ANIMATED SUBTITLE -->
