@@ -6,7 +6,7 @@
 
 <!-- ANIMATED SUBTITLE -->
 <p align="center">
-  <a href="https://github.com/Rafiadnan0666">
+  <a href="https://github.com/Dennis-Dayum">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=500&color=33A1DE&center=true&vCenter=true&width=700&lines=🚀+Web+and+Game+Developer;🎮+Unity+%26+Full-Stack+Explorer;🧩+Puzzle+Solver+%26+Bug+Tamer;🔥+Turning+Ideas+Into+Playable+Worlds;💡+Dreaming+Big%2C+Coding+Bigger"/>
   </a>
 </p>
@@ -79,8 +79,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafiadnan0666&show_icons=true&theme=radical&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiadnan0666&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dennis-Dayum&show_icons=true&theme=radical&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dennis-Dayum&layout=compact&theme=radical" height="170"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rafiadnan0666&theme=catppuccin_mocha" height="170"/>
 </div>
@@ -92,14 +92,6 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,react,tailwind,js,cs,unity,mysql,git,github,vscode,figma"/>
 </p>
 
----
-
-## 📫 Contact Me
-<p align="center">
-  <a href="mailto:fn234561@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rafi-adnan-a52141274"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white"/></a>
-  <a href="https://rafiadnan.my.id"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-green?logo=firefox&logoColor=white"/></a>
-</p>
 
 <!-- FOOTER GIF -->
 <p align="center">
