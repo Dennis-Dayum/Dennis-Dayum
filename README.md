@@ -7,7 +7,7 @@
 <!-- ANIMATED SUBTITLE -->
 <p align="center">
   <a href="https://github.com/Dennis-Dayum">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=500&color=33A1DE&center=true&vCenter=true&width=700&lines=🚀+Web+and+Game+Developer;🎮+Unity+%26+Full-Stack+Explorer;🧩+Puzzle+Solver+%26+Bug+Tamer;🔥+Turning+Ideas+Into+Playable+Worlds;💡+Dreaming+Big%2C+Coding+Bigger"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=500&color=33A1DE&center=true&vCenter=true&width=700&lines=🚀+Web+and+Game+Developer;🎮+Unity+%26+Front-End+Explorer;🧩+Puzzle+Solver+%26+Bug+Tamer;🔥+Turning+Ideas+Into+Playable+Worlds;💡+Dreaming+Big%2C+Coding+Bigger"/>
   </a>
 </p>
 
